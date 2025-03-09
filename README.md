@@ -1,7 +1,7 @@
-# ai-agentic
-Explorting agentic workflows
+# Agentic AI Workflows
+Exploring agentic workflows
 
-Inspiration from:
+Thank you for the inspiration from the following:
 - https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/?ref=dl-staging-website.ghost.io
 - https://github.com/langchain-ai/langgraph/tree/c3f6c58e13c09dc4870cb1748f2646dd72444151/examples
 
